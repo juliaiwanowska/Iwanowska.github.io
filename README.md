@@ -1,16 +1,10 @@
 
 <html>
-    <head>
-        <meta charset="utf-8">
-        <title>HTML: Images</title>
-    </head>
+  
     <body>
 
     <h1> Wszystko o delfinach!</h1>
-    
-    <h3></h3>
-    
-    <ul>
+   
         <li>Delfiny są bardzo mądre,</li>
         <li>Delfiny używają echolokacji.
 W ten sposób odnajdują się w otaczającym je środowisku. Emitując dźwięki o wysokiej częstotliwości nasłuchują powracającego do nich echa i na jego podstawie budują "mapę" przestrzeni. Wykorzystują echolokację również do znajdowania pokarmu i polować.</li>
