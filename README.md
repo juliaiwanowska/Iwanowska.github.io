@@ -20,7 +20,7 @@
         Orki są największymi naturalnymi wrogami delfinów. Delfiny cierpią także z powodu zanieczyszczeń oceanów i polowań.
         </li>
 <li> 
-  Na świecie jest blisko 40 gatunków delfinów. Większość z nich żyje w płytkich wodach oceanicznych w strefie tropikalnej.
+  Na świecie jest około 40 gatunków delfinów. Większość z nich żyje w płytkich wodach oceanicznych w strefie tropikalnej.
 </li>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NMMP_dolphin_with_locator.jpeg/220px-NMMP_dolphin_with_locator.jpeg">
 
