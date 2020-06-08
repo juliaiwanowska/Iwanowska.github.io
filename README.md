@@ -8,8 +8,6 @@
 
     <h1> Wszystko o delfinach! </h1>
     
-    <h3></h3>
-    
     <ul>
         <li>Delfiny są bardzo mądre,</li>
         <li>Delfiny używają echolokacji.
@@ -38,7 +36,8 @@ Większość z nich żyje w płytkich wodach oceanicznych w strefie tropikalnej.
     
     <h2>Podstawowe informacje</h2>
     
-    <p>Delfin – ogólne określenie wodnych ssaków z rzędu waleni, z rodzin Delphinidae i Platanistidae, obejmujące średniej wielkości walenie charakteryzujące się wydłużonym pyskiem i obecnością melonu. W ściślejszym ujęciu odnosi się ono też do rodzaju należącego do rodziny delfinowatych.
+    <p>
+    Delfin – ogólne określenie wodnych ssaków z rzędu waleni, z rodzin Delphinidae i Platanistidae, obejmujące średniej wielkości walenie charakteryzujące się wydłużonym pyskiem i obecnością melonu. W ściślejszym ujęciu odnosi się ono też do rodzaju należącego do rodziny delfinowatych.
 
 Delfiny zamieszkują morza obu półkul i wiele rzek strefy równikowej. Często przebywają w gromadach (stadach) od kilku do kilkuset osobników, o wyraźnie zaznaczonej hierarchii. Odbywają dalekie wędrówki. Mają zdolność do echolokacji, a przynajmniej jeden gatunek (Sotalia guianensis) także do elektrorecepcji. Porozumiewają się za pomocą dźwięków, określanych jako język delfinów.
 
