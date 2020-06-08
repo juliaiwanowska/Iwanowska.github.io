@@ -40,7 +40,7 @@ Większość z nich żyje w płytkich wodach oceanicznych w strefie tropikalnej.
     
     <p>Delfin – ogólne określenie wodnych ssaków z rzędu waleni, z rodzin Delphinidae i Platanistidae, obejmujące średniej wielkości walenie charakteryzujące się wydłużonym pyskiem i obecnością melonu. W ściślejszym ujęciu odnosi się ono też do rodzaju należącego do rodziny delfinowatych.
 
-Delfiny zamieszkują morza obu półkul i wiele rzek strefy równikowej. Często przebywają w gromadach (stadach) od kilku do kilkuset osobników, o wyraźnie zaznaczonej hierarchii. Odbywają dalekie wędrówki. Mają zdolność do echolokacji, a przynajmniej jeden gatunek (Sotalia guianensis) także do elektrorecepcji. Porozumiewają się za pomocą dźwięków, określanych jako język delfinów.
+Delfiny zamieszkują morza obu półkuli i wiele rzek strefy równikowej. Często przebywają w gromadach (stadach) od kilku do kilkuset osobników, o wyraźnie zaznaczonej hierarchii. Odbywają dalekie wędrówki. Mają zdolność do echolokacji, a przynajmniej jeden gatunek (Sotalia guianensis) także do elektrorecepcji. Porozumiewają się za pomocą dźwięków, określanych jako język delfinów.
 
 Delfin śpi, unosząc się w wodzie na głębokości około 50 cm, z jednym okiem otwartym. Oddycha wynurzając się co 30 sek. na powierzchnię, nie budząc się. Delfiny często polują ławicami. Czasami nawet polują z rekinami. Żywią się rybami, kalmarami i skorupiakami. Ich głównym naturalnym wrogiem jest orka. Ich duże rozmiary oznaczają, że mają lepszą ochronę przed surowym zimnem mroźnych mórz.
 
